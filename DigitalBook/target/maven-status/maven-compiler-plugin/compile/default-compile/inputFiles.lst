@@ -1,0 +1,10 @@
+C:\BOOK_WS\DigitalBook\src\main\java\com\cts\usecaseproject\Exceptions\BookException.java
+C:\BOOK_WS\DigitalBook\src\main\java\com\cts\usecaseproject\Model\Book.java
+C:\BOOK_WS\DigitalBook\src\main\java\com\cts\usecaseproject\Model\ErrorMessage.java
+C:\BOOK_WS\DigitalBook\src\main\java\com\cts\usecaseproject\Service\BookService.java
+C:\BOOK_WS\DigitalBook\src\main\java\com\cts\usecaseproject\DigitalBookApplication.java
+C:\BOOK_WS\DigitalBook\src\main\java\com\cts\usecaseproject\Controller\BookController.java
+C:\BOOK_WS\DigitalBook\src\main\java\com\cts\usecaseproject\Model\Books.java
+C:\BOOK_WS\DigitalBook\src\main\java\com\cts\usecaseproject\Advice\ExceptionAdvice.java
+C:\BOOK_WS\DigitalBook\src\main\java\com\cts\usecaseproject\config\KafkaConsumerConfiguration.java
+C:\BOOK_WS\DigitalBook\src\main\java\com\cts\usecaseproject\Repository\BookRepository.java

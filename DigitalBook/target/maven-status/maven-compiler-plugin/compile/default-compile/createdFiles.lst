@@ -1,0 +1,10 @@
+com\cts\usecaseproject\Model\ErrorMessage.class
+com\cts\usecaseproject\Service\BookService.class
+com\cts\usecaseproject\Advice\ExceptionAdvice.class
+com\cts\usecaseproject\config\KafkaConsumerConfiguration.class
+com\cts\usecaseproject\Controller\BookController.class
+com\cts\usecaseproject\Exceptions\BookException.class
+com\cts\usecaseproject\Model\Book.class
+com\cts\usecaseproject\Model\Books.class
+com\cts\usecaseproject\DigitalBookApplication.class
+com\cts\usecaseproject\Repository\BookRepository.class
